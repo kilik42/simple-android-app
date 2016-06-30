@@ -10,12 +10,18 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/array" />
+            <option value="$PROJECT_DIR$/conditionals" />
+            <option value="$PROJECT_DIR$/methods" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/array" />
+            <option value="$PROJECT_DIR$/conditionals" />
+            <option value="$PROJECT_DIR$/methods" />
           </set>
         </option>
       </GradleProjectSettings>
